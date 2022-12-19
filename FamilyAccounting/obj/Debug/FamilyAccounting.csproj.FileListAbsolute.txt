@@ -1,0 +1,416 @@
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csprojAssemblyReference.cache
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\App.g.cs
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.cache
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.lref
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe.config
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\CommonServiceLocator.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\System.Windows.Interactivity.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\App.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.g.resources
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.Properties.Resources.resources
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.GenerateResource.cache
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CopyComplete
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.exe
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.g.cs
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\bin\Debug\de\MahApps.Metro.resources.dll
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Styles\DataTemplates.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.g.cs
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.g.cs
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.g.cs
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.g.cs
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.baml
+Z:\Documents\Visual Studio 2019\Jobs\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.csprojAssemblyReference.cache
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\AddMoneyyView.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\AddMoneyyView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\App.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.cache
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.lref
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.exe
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\FamilyAccounting.exe.config
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\FamilyAccounting.exe
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\CommonServiceLocator.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\ControlzEx.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\Dragablz.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\EntityFramework.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MahApps.Metro.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MaterialDesignColors.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MvvmCross.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\Proconsult.Core.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\System.Data.SQLite.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\ControlzEx.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\ControlzEx.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\Dragablz.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\Dragablz.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\EntityFramework.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MahApps.Metro.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MahApps.Metro.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MvvmCross.pdb
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\MvvmCross.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\System.Data.SQLite.xml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\App.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Styles\DataTemplates.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\Views\MainWindow.baml
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.g.resources
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.Properties.Resources.resources
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.GenerateResource.cache
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CoreCompileInputs.cache
+C:\Users\jaten\Downloads\FamilyAccounting (4)\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CopyComplete
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\FamilyAccounting.exe.config
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\FamilyAccounting.exe
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\FamilyAccounting.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\CommonServiceLocator.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\ControlzEx.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\Dragablz.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\EntityFramework.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MahApps.Metro.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MaterialDesignColors.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MvvmCross.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\Proconsult.Core.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\System.Data.SQLite.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\ControlzEx.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\ControlzEx.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\Dragablz.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\Dragablz.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\EntityFramework.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MahApps.Metro.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MahApps.Metro.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MvvmCross.pdb
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\MvvmCross.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\System.Data.SQLite.xml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.csprojAssemblyReference.cache
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\AddMoneyyView.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\AddMoneyyView.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\App.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.cache
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.lref
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\App.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Styles\DataTemplates.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\Views\MainWindow.baml
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.g.resources
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.Properties.Resources.resources
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.GenerateResource.cache
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CoreCompileInputs.cache
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CopyComplete
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.exe
+C:\Users\jaten\OneDrive\Рабочий стол\FamilyAccounting (4) — копия\FamilyAccounting\obj\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe.config
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\CommonServiceLocator.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\Proconsult.Core.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.pdb
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.xml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csprojAssemblyReference.cache
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\App.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.cache
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.lref
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\App.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Styles\DataTemplates.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.baml
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.g.resources
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.Properties.Resources.resources
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.GenerateResource.cache
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CoreCompileInputs.cache
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CopyComplete
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.exe
+C:\Users\jaten\Downloads\FamilyAccounting22222\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe.config
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\CommonServiceLocator.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Proconsult.Core.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csprojAssemblyReference.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\App.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.lref
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\App.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Styles\DataTemplates.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.g.resources
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.Properties.Resources.resources
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.GenerateResource.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CoreCompileInputs.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CopyComplete
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.exe
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe.config
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.exe
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\FamilyAccounting.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\CommonServiceLocator.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Proconsult.Core.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\ControlzEx.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Dragablz.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MahApps.Metro.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.pdb
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\MvvmCross.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\System.Data.SQLite.xml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csprojAssemblyReference.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\AddMoneyyView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddCategoryView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\AddUserView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\WaitingView.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\App.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting_MarkupCompile.lref
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\App.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Styles\DataTemplates.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\Dialog\DialogWiew.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\Views\MainWindow.baml
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.g.resources
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.Properties.Resources.resources
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.GenerateResource.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CoreCompileInputs.cache
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.csproj.CopyComplete
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.exe
+C:\Users\jaten\Desktop\FamilyAccounting\FamilyAccounting\FamilyAccounting\FamilyAccounting\obj\Debug\FamilyAccounting.pdb

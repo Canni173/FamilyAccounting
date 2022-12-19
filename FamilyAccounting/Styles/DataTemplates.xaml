@@ -1,0 +1,24 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vmd="clr-namespace:FamilyAccounting.ViewModel"
+    xmlns:vwd="clr-namespace:FamilyAccounting.Views">
+
+    <!--  @@@@@@@@@@@@@@    Dialog           @@@@@@@@@@@@@@  -->
+    <DataTemplate DataType="{x:Type vmd:WaitingViewModel}">
+        <vwd:WaitingView />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type vmd:AddUserViewModel}">
+        <vwd:AddUserView />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type vmd:AddCategoryViewModel}">
+        <vwd:AddCategoryView />
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type vmd:AddMoneyyViewModel}">
+        <vwd:AddMoneyyView />
+    </DataTemplate>
+    <!--<DataTemplate DataType="{x:Type vm:LogViewModel}">
+        <vw:LogView />
+    </DataTemplate>-->
+
+</ResourceDictionary>

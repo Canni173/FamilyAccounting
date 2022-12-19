@@ -1,0 +1,50 @@
+<Application
+    x:Class="FamilyAccounting.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:d1p1="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:dragablz="clr-namespace:Dragablz;assembly=Dragablz"
+    xmlns:local="clr-namespace:FamilyAccounting"
+    d1p1:Ignorable="d">
+
+
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--  Metro Styles  -->
+                <!--
+                    Accents:
+                    Red, Green, Blue, Purple, Orange, Lime, Emerald, Teal, Cyan, Cobalt, Indigo, Violet,
+                    Pink, Magenta, Crimson, Amber, Yellow, Brown, Olive, Steel, Mauve, Taupe, Sienna
+                -->
+                <!--  MahApps  -->
+
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Themes/Light.Green.xaml" />
+
+                <!--  Material Design  -->
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Green.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.LightGreen.xaml" />
+
+                <!--  Dragablz Material Design  -->
+                <ResourceDictionary Source="pack://application:,,,/Dragablz;component/Themes/materialdesign.xaml" />
+                <!--  Templates  -->
+                <ResourceDictionary Source="/FamilyAccounting;component/Styles/DataTemplates.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+            <Style BasedOn="{StaticResource MaterialDesignTabablzControlStyle}" TargetType="{x:Type dragablz:TabablzControl}" />
+
+            <vm:ViewModelLocator
+                xmlns:vm="clr-namespace:FamilyAccounting.ViewModel"
+                x:Key="Locator"
+                d:IsDataSource="True" />
+
+        </ResourceDictionary>
+    </Application.Resources>
+
+
+</Application>
